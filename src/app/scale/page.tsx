@@ -6,7 +6,7 @@ export default function ScalePage() {
         <div>
             <Hero
                 image={scaleImg}
-                imgAlt="steel factory"
+                imgAlt="scale factory"
                 title="Scale your up to infinite"
             />
         </div>
